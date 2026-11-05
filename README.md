@@ -2,11 +2,13 @@
 
 # YUDHA INDRA PRAJA
 
-### Full-Stack Developer · Computer Engineering student · IoT & edge computing
+### Full-Stack Developer · AI explorer · IoT & edge computing
 
-**I design, build, and ship complete products—from interface to API, database, and deployment.**
+**I build intelligent software from frontend to backend—turning ideas, data, and models into useful products.**
 
-[![Typing animation](https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Frontend+%E2%86%92+Backend+%E2%86%92+Database;IoT+%26+Edge+Computing;Building+software+for+the+real+world)](https://git.io/typing-svg)
+[![Typing animation](https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Frontend+%E2%86%92+Backend+%E2%86%92+Database;IoT+%26+Edge+Computing;Building+intelligent+software)](https://git.io/typing-svg)
+
+> **Bio:** Full-Stack Developer exploring AI, IoT, and Edge Computing—building intelligent software from frontend to backend.
 
 [![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yudhaindrap)
 [![Edge systems](https://img.shields.io/badge/EDGE_SYSTEMS-0B1220?style=for-the-badge&logo=raspberrypi&logoColor=22D3EE)](https://github.com/yudhaindrap/Ujicoba-tes)
@@ -17,11 +19,11 @@
 
 ## `01` / PROFILE
 
-I am a **Full-Stack Developer** who builds complete web products: responsive interfaces, backend services, APIs, database workflows, and production-ready deployments. I care about the details that connect every layer into one reliable experience.
+I am a **Full-Stack Developer and AI explorer** who builds complete web products: responsive interfaces, backend services, APIs, database workflows, and production-ready deployments. I care about the details that connect every layer into one reliable experience.
 
-My projects span **React interfaces, Node.js services, SQL/NoSQL data, authentication, real-time communication, and IoT systems**. I also explore how sensor data, edge processing, computer vision, and intelligent systems can become useful software for real people.
+My projects span **React interfaces, Node.js services, SQL/NoSQL data, authentication, real-time communication, AI-assisted workflows, computer vision, and IoT systems**. I enjoy learning how data becomes decisions—and how intelligent features can improve useful software.
 
-> **Current lens:** from a polished first click to a dependable backend response—design the flow, build every layer, and ship it.
+> **Current lens:** design the experience, build every layer, connect the data, and make intelligence useful.
 
 ## `02` / SELECTED WORK
 
@@ -100,6 +102,7 @@ Technologies represented in my public project code—not a proficiency ranking.
 ![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=22D3EE)
 ![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=22D3EE)
 ![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=22D3EE)
+![AI](https://img.shields.io/badge/AI%20%2F%20ML-0B1220?style=for-the-badge&logo=google-brain&logoColor=22D3EE)
 ![MQTT](https://img.shields.io/badge/MQTT-0B1220?style=for-the-badge&logo=mqtt&logoColor=22D3EE)
 
 </div>
@@ -115,9 +118,15 @@ Technologies represented in my public project code—not a proficiency ranking.
 
 ## `04` / WHAT I'M EXPLORING
 
-- **Offline-first systems** — synchronization between edge services and backend APIs.
-- **Intelligent monitoring** — combining sensor readings, computer vision, and prediction pipelines.
-- **Engineering the boundary** — making hardware data observable, actionable, and useful through software.
+<details open>
+<summary><strong>AI, full-stack & connected systems</strong> — click to explore</summary>
+
+- **AI & machine learning** — learning practical ways to turn data into predictions, recommendations, and useful product features.
+- **Computer vision** — exploring image processing, object detection, and intelligent monitoring workflows.
+- **Full-stack systems** — connecting polished interfaces to APIs, databases, authentication, and reliable deployments.
+- **IoT & edge computing** — making sensor data observable, actionable, and useful through software.
+
+</details>
 
 ## `05` / ACTIVITY
 
@@ -128,7 +137,7 @@ Technologies represented in my public project code—not a proficiency ranking.
 
 ## `06` / CONNECT
 
-Interested in software, IoT, or edge-computing collaboration? Find me on [GitHub @yudhaindrap](https://github.com/yudhaindrap).
+Interested in **full-stack development, AI, IoT, or edge-computing collaboration**? Find me on [GitHub @yudhaindrap](https://github.com/yudhaindrap).
 
 <div align="center">
 
@@ -136,6 +145,6 @@ Interested in software, IoT, or edge-computing collaboration? Find me on [GitHub
 
 **Build close to the data. Design for the real world.**
 
-`frontend` · `backend` · `database` · `deployment` · `IoT`
+`frontend` · `backend` · `database` · `AI/ML` · `deployment` · `IoT`
 
 </div>

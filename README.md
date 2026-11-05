@@ -78,6 +78,34 @@ Monitoring · prediction · connected systems
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [MAGSENSE](https://github.com/bayezsyka/capstone-magsense)
+
+A capstone project for monitoring and managing maggot cultivation through a web-based system. This project brings together environmental monitoring, dashboard workflows, and connected-farming features in one deployable application.
+
+**Role**
+
+Created and developed the MAGSENSE application as a capstone project.
+
+**Explore:** [Live application](https://capstone.sangkolo.my.id/login)
+
+</td>
+<td width="50%" valign="top">
+
+### [Web Desa Gosono](https://github.com/Desa-Gosono/webdesa)
+
+A public village website for Desa Gosono, Boyolali, designed to make village information, services, and local activities more accessible to the community.
+
+**Role**
+
+Web development and delivery of the Desa Gosono public information platform.
+
+**Explore:** [Live website](https://www.desagosonoboyolali.com/)
+
+</td>
+</tr>
 </table>
 
 <details>

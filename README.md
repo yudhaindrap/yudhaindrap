@@ -27,15 +27,14 @@ My interests include **IoT, edge computing, computer vision, and intelligent sys
 <tr>
 <td width="50%" valign="top">
 
-### [Smart Farming Edge Platform](https://github.com/yudhaindrap/Farming-Edge-Platform.git)
+### [MAGSENSE Capstone](https://github.com/bayezsyka/capstone-magsense)
 
-An IoT prototype connecting ESP32 sensor and actuator firmware, Python edge workers, and a web dashboard for monitoring maggot cultivation. Includes OpenCV/YOLO processing and XGBoost inference, with simulation and fallback modes.
-
-**Stack**
-`React` `Express` `Python` `ESP32` `MQTT` `SQLite` `PostgreSQL` `OpenCV` `YOLO` `XGBoost`
+A completed capstone project for monitoring and managing maggot cultivation through a deployable web-based system. It brings together environmental monitoring, dashboard workflows, and connected-farming features.
 
 **Role**
-Repository commits covering dashboard integration, backend synchronization, and edge-worker updates.
+Created and developed the MAGSENSE application as a capstone project.
+
+**Explore:** [Live application](https://capstone.sangkolo.my.id/login)
 
 </td>
 <td width="50%" valign="top">
@@ -67,39 +66,11 @@ A plant-care PWA for managing a collection and scheduling watering reminders. Us
 </td>
 <td width="50%" valign="top">
 
-### MAGSENSE Simulation
-
-A React monitoring interface with a [Node.js/PostgreSQL backend](https://github.com/yudhaindrap/MAGSENSE_SIMULASI_BCK). My commits cover interface revisions, backend updates, and prediction integration.
-
-**Frontend:** [MAGSENSE_SIMULASI_Frnt](https://github.com/yudhaindrap/MAGSENSE_SIMULASI_Frnt)
-
-**Theme**
-Monitoring · prediction · connected systems
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [MAGSENSE](https://github.com/bayezsyka/capstone-magsense)
-
-A capstone project for monitoring and managing maggot cultivation through a web-based system. This project brings together environmental monitoring, dashboard workflows, and connected-farming features in one deployable application.
-
-**Role**
-
-Created and developed the MAGSENSE application as a capstone project.
-
-**Explore:** [Live application](https://capstone.sangkolo.my.id/login)
-
-</td>
-<td width="50%" valign="top">
-
 ### [Web Desa Gosono](https://github.com/Desa-Gosono/webdesa)
 
 A public village website for Desa Gosono, Boyolali, designed to make village information, services, and local activities more accessible to the community.
 
 **Role**
-
 Web development and delivery of the Desa Gosono public information platform.
 
 **Explore:** [Live website](https://www.desagosonoboyolali.com/)

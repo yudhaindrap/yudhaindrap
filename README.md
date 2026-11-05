@@ -1,80 +1,136 @@
-# Hi, I'm Yudha Indra Praja
+<div align="center">
 
-**Computer Engineering student · Software engineering · IoT & edge computing**
+# YUDHA INDRA PRAJA
 
-Connecting sensor data, edge processing, and usable software.
+### Computer Engineering student · Software engineering · IoT & edge computing
 
-[Featured projects](#featured-projects) · [Tech stack](#tech-stack) · [Connect](#connect)
+**I connect sensor data, edge processing, and usable software.**
 
-## About
+[![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yudhaindrap)
+[![Edge systems](https://img.shields.io/badge/EDGE_SYSTEMS-0B1220?style=for-the-badge&logo=raspberrypi&logoColor=22D3EE)](https://github.com/yudhaindrap/Ujicoba-tes)
+
+</div>
+
+---
+
+## `01` / PROFILE
 
 I build web applications and explore how software connects with the physical world. My public projects span React interfaces, offline data synchronization, and smart-farming prototypes with computer vision and machine learning.
 
-My interests include IoT, edge computing, computer vision, and intelligent systems, with a focus on how the components work together.
+My interests include **IoT, edge computing, computer vision, and intelligent systems**—especially the engineering between sensors, local processing, backend services, and human-facing interfaces.
 
-## Featured projects
+> **Current lens:** reliable data flows from the edge to the cloud, presented through software people can use.
 
-### [Smart Farming Edge Platform](https://github.com/yudhaindrap/Ujicoba-tes)
+## `02` / SELECTED WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Smart Farming Edge Platform](https://github.com/yudhaindrap/Farming-Edge-Platform.git)
 
 An IoT prototype connecting ESP32 sensor and actuator firmware, Python edge workers, and a web dashboard for monitoring maggot cultivation. Includes OpenCV/YOLO processing and XGBoost inference, with simulation and fallback modes.
 
-- **Stack:** React, Express, Python, ESP32, MQTT, SQLite, PostgreSQL, OpenCV, YOLO, XGBoost.
-- **My contribution:** Repository commits covering dashboard integration, backend synchronization, and edge-worker updates.
+**Stack**
+`React` `Express` `Python` `ESP32` `MQTT` `SQLite` `PostgreSQL` `OpenCV` `YOLO` `XGBoost`
+
+**Role**
+Repository commits covering dashboard integration, backend synchronization, and edge-worker updates.
+
+</td>
+<td width="50%" valign="top">
 
 ### [Offline Data Sync](https://github.com/yudhaindrap/projek-Offline-Data-Sync)
 
 A simulation-based testbed for storing sensor data locally and synchronizing it through an API when connectivity returns. Includes persistent queues, batch uploads, retry handling, and configurable network disruption.
 
-- **Stack:** React, Node.js, Express, SQLite, PostgreSQL, MQTT, Socket.IO.
-- **My contribution:** Repository contributor to the offline-sync prototype, including its edge, backend, and dashboard code.
+**Stack**
+`React` `Node.js` `Express` `SQLite` `PostgreSQL` `MQTT` `Socket.IO`
+
+**Role**
+Repository contributor across the edge, backend, and dashboard code.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [PlantPal](https://github.com/yudhaindrap/Plant-Pal)
 
 A plant-care PWA for managing a collection and scheduling watering reminders. Uses Supabase authentication, optimistic edits and deletes, and browser notifications while the app is running.
 
-- **Stack:** React, Tailwind CSS, Supabase, Vite, PWA/Workbox.
-- **My contribution:** Application development and documented updates to the interface, plant management, and reminder logic.
-- **Explore:** [Live app](https://ta-prakppb.vercel.app/)
+**Stack**
+`React` `Tailwind CSS` `Supabase` `Vite` `PWA/Workbox`
+
+**Explore:** [Live app](https://ta-prakppb.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### MAGSENSE Simulation
+
+A React monitoring interface with a [Node.js/PostgreSQL backend](https://github.com/yudhaindrap/MAGSENSE_SIMULASI_BCK). My commits cover interface revisions, backend updates, and prediction integration.
+
+**Frontend:** [MAGSENSE_SIMULASI_Frnt](https://github.com/yudhaindrap/MAGSENSE_SIMULASI_Frnt)
+
+**Theme**
+Monitoring · prediction · connected systems
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><strong>More projects: applications & engineering coursework</strong></summary>
+<summary><strong>Explore more applications & engineering coursework</strong></summary>
 
-- **[Nonlinear Systems Solver](https://github.com/yudhaindrap/Metnum-sistem-persamaan-non-linear)** — Python implementations of Jacobi, Gauss–Seidel, Newton–Raphson, and Broyden iterations. My individual numerical-methods coursework, with iteration and residual reporting.
+- **[Nonlinear Systems Solver](https://github.com/yudhaindrap/Metnum-sistem-persamaan-non-linear)** — Python implementations of Jacobi, Gauss–Seidel, Newton–Raphson, and Broyden iterations.
 - **[PID Temperature Control](https://github.com/yudhaindrap/TA-TKO-Kel03)** — MATLAB closed-loop temperature-control simulation. Group coursework; I contributed as a team member and maintained the repository documentation.
-- **[MAGSENSE Simulation](https://github.com/yudhaindrap/MAGSENSE_SIMULASI_Frnt)** — React monitoring interface with a [Node.js/PostgreSQL backend](https://github.com/yudhaindrap/MAGSENSE_SIMULASI_BCK). My repository commits cover interface revisions, backend updates, and prediction integration.
 - **[Countries App](https://github.com/yudhaindrap/Countries-App)** — Dart/Flutter application for browsing, searching, and favoriting country data from an API.
 - **[Note App](https://github.com/yudhaindrap/Note-app)** — React/Express application with authenticated, user-scoped note CRUD and MongoDB persistence.
 
 </details>
 
-## Tech stack
+## `03` / TOOLBOX
 
 Technologies represented in my public project code—not a proficiency ranking.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-2563EB?style=flat-square&logo=mqtt&logoColor=white)
+<div align="center">
 
-- **Languages:** JavaScript, Python, Dart, C++ (Arduino/ESP32), MATLAB.
-- **Frontend & mobile:** React, Tailwind CSS, Flutter, progressive web apps.
-- **Backend & data:** Node.js, Express, Supabase, PostgreSQL, SQLite, MongoDB.
-- **IoT & communication:** ESP32, MQTT, Socket.IO.
-- **AI & computer vision:** OpenCV, Ultralytics YOLO, XGBoost, pandas.
-- **Tools:** Git, Vite, Docker Compose, Jupyter Notebook.
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=22D3EE)
+![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=22D3EE)
+![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=22D3EE)
+![MQTT](https://img.shields.io/badge/MQTT-0B1220?style=for-the-badge&logo=mqtt&logoColor=22D3EE)
 
-## Focus
+</div>
 
-- Offline-first data flows and synchronization between edge services and backend APIs.
-- Integrating sensor readings, computer vision, and prediction pipelines into useful monitoring interfaces.
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript · Python · Dart · C++ (Arduino/ESP32) · MATLAB |
+| **Frontend & mobile** | React · Tailwind CSS · Flutter · Progressive Web Apps |
+| **Backend & data** | Node.js · Express · Supabase · PostgreSQL · SQLite · MongoDB |
+| **IoT & communication** | ESP32 · MQTT · Socket.IO |
+| **AI & computer vision** | OpenCV · Ultralytics YOLO · XGBoost · pandas |
+| **Tools** | Git · Vite · Docker Compose · Jupyter Notebook |
 
-## Code activity
+## `04` / WHAT I'M EXPLORING
 
-[![Edge platform last commit](https://img.shields.io/github/last-commit/yudhaindrap/Ujicoba-tes?style=flat-square&label=edge%20platform&color=2563EB)](https://github.com/yudhaindrap/Ujicoba-tes)
-[![Offline sync last commit](https://img.shields.io/github/last-commit/yudhaindrap/projek-Offline-Data-Sync?style=flat-square&label=offline%20sync&color=2563EB)](https://github.com/yudhaindrap/projek-Offline-Data-Sync)
+- **Offline-first systems** — synchronization between edge services and backend APIs.
+- **Intelligent monitoring** — combining sensor readings, computer vision, and prediction pipelines.
+- **Engineering the boundary** — making hardware data observable, actionable, and useful through software.
 
-[Contribution graph & activity](https://github.com/yudhaindrap?tab=overview) · [All repositories](https://github.com/yudhaindrap?tab=repositories)
+## `05` / ACTIVITY
 
-## Connect
+[![Edge platform last commit](https://img.shields.io/github/last-commit/yudhaindrap/Ujicoba-tes?style=flat-square&label=edge%20platform&color=22D3EE)](https://github.com/yudhaindrap/Ujicoba-tes)
+[![Offline sync last commit](https://img.shields.io/github/last-commit/yudhaindrap/projek-Offline-Data-Sync?style=flat-square&label=offline%20sync&color=22D3EE)](https://github.com/yudhaindrap/projek-Offline-Data-Sync)
+
+[View contribution graph](https://github.com/yudhaindrap?tab=overview) · [Browse all repositories](https://github.com/yudhaindrap?tab=repositories)
+
+## `06` / CONNECT
 
 Interested in software, IoT, or edge-computing collaboration? Find me on [GitHub @yudhaindrap](https://github.com/yudhaindrap).
+
+<div align="center">
+
+**Build close to the data. Design for the real world.**
+
+</div>

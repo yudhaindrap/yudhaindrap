@@ -2,9 +2,11 @@
 
 # YUDHA INDRA PRAJA
 
-### Computer Engineering student · Software engineering · IoT & edge computing
+### Full-Stack Developer · Computer Engineering student · IoT & edge computing
 
-**I connect sensor data, edge processing, and usable software.**
+**I design, build, and ship complete products—from interface to API, database, and deployment.**
+
+[![Typing animation](https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Frontend+%E2%86%92+Backend+%E2%86%92+Database;IoT+%26+Edge+Computing;Building+software+for+the+real+world)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yudhaindrap)
 [![Edge systems](https://img.shields.io/badge/EDGE_SYSTEMS-0B1220?style=for-the-badge&logo=raspberrypi&logoColor=22D3EE)](https://github.com/yudhaindrap/Ujicoba-tes)
@@ -15,11 +17,11 @@
 
 ## `01` / PROFILE
 
-I build web applications and explore how software connects with the physical world. My public projects span React interfaces, offline data synchronization, and smart-farming prototypes with computer vision and machine learning.
+I am a **Full-Stack Developer** who builds complete web products: responsive interfaces, backend services, APIs, database workflows, and production-ready deployments. I care about the details that connect every layer into one reliable experience.
 
-My interests include **IoT, edge computing, computer vision, and intelligent systems**—especially the engineering between sensors, local processing, backend services, and human-facing interfaces.
+My projects span **React interfaces, Node.js services, SQL/NoSQL data, authentication, real-time communication, and IoT systems**. I also explore how sensor data, edge processing, computer vision, and intelligent systems can become useful software for real people.
 
-> **Current lens:** reliable data flows from the edge to the cloud, presented through software people can use.
+> **Current lens:** from a polished first click to a dependable backend response—design the flow, build every layer, and ship it.
 
 ## `02` / SELECTED WORK
 
@@ -39,15 +41,15 @@ Created and developed the MAGSENSE application as a capstone project.
 </td>
 <td width="50%" valign="top">
 
-### [Offline Data Sync](https://github.com/yudhaindrap/projek-Offline-Data-Sync)
+### [Website Layanan Jateng-DIY](https://github.com/yudhaindrap/Website-Layanan-Jateng-DIY)
 
-A simulation-based testbed for storing sensor data locally and synchronizing it through an API when connectivity returns. Includes persistent queues, batch uploads, retry handling, and configurable network disruption.
+A web platform focused on presenting regional services and information for the Jateng–DIY area. The project represents my full-stack approach: shaping a clear user experience while connecting the frontend with application logic and data workflows.
 
-**Stack**
-`React` `Node.js` `Express` `SQLite` `PostgreSQL` `MQTT` `Socket.IO`
+**Focus**
+`Full-stack web development` `Responsive UI` `Service information` `API & data flow`
 
 **Role**
-Repository contributor across the edge, backend, and dashboard code.
+Designed and developed the website experience across the frontend and supporting application layers.
 
 </td>
 </tr>
@@ -119,8 +121,8 @@ Technologies represented in my public project code—not a proficiency ranking.
 
 ## `05` / ACTIVITY
 
-[![Edge platform last commit](https://img.shields.io/github/last-commit/yudhaindrap/Ujicoba-tes?style=flat-square&label=edge%20platform&color=22D3EE)](https://github.com/yudhaindrap/Ujicoba-tes)
-[![Offline sync last commit](https://img.shields.io/github/last-commit/yudhaindrap/projek-Offline-Data-Sync?style=flat-square&label=offline%20sync&color=22D3EE)](https://github.com/yudhaindrap/projek-Offline-Data-Sync)
+[![MAGSENSE last commit](https://img.shields.io/github/last-commit/bayezsyka/capstone-magsense?style=flat-square&label=MAGSENSE&color=22D3EE)](https://github.com/bayezsyka/capstone-magsense)
+[![Jateng-DIY last commit](https://img.shields.io/github/last-commit/yudhaindrap/Website-Layanan-Jateng-DIY?style=flat-square&label=Jateng-DIY&color=22D3EE)](https://github.com/yudhaindrap/Website-Layanan-Jateng-DIY)
 
 [View contribution graph](https://github.com/yudhaindrap?tab=overview) · [Browse all repositories](https://github.com/yudhaindrap?tab=repositories)
 
@@ -130,6 +132,10 @@ Interested in software, IoT, or edge-computing collaboration? Find me on [GitHub
 
 <div align="center">
 
+![Animated wave](https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=90&section=footer&animation=twinkling)
+
 **Build close to the data. Design for the real world.**
+
+`frontend` · `backend` · `database` · `deployment` · `IoT`
 
 </div>

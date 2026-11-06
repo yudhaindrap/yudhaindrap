@@ -2,16 +2,15 @@
 
 # YUDHA INDRA PRAJA
 
-### Full-Stack Developer · AI explorer · IoT & edge computing
+### Full-Stack Developer · AI/ML explorer · Software engineer
 
 **I build intelligent software from frontend to backend—turning ideas, data, and models into useful products.**
 
-[![Typing animation](https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Frontend+%E2%86%92+Backend+%E2%86%92+Database;IoT+%26+Edge+Computing;Building+intelligent+software)](https://git.io/typing-svg)
+[![Typing animation](https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;AI+%26+Machine+Learning;Frontend+%E2%86%92+Backend+%E2%86%92+Database;Building+intelligent+products;Turning+ideas+into+software)](https://git.io/typing-svg)
 
-> **Bio:** Full-Stack Developer exploring AI, IoT, and Edge Computing—building intelligent software from frontend to backend.
+> **Bio:** Full-Stack Developer exploring AI and Machine Learning—building intelligent products from frontend to backend.
 
 [![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yudhaindrap)
-[![Edge systems](https://img.shields.io/badge/EDGE_SYSTEMS-0B1220?style=for-the-badge&logo=raspberrypi&logoColor=22D3EE)](https://github.com/yudhaindrap/Ujicoba-tes)
 
 </div>
 
@@ -21,7 +20,7 @@
 
 I am a **Full-Stack Developer and AI explorer** who builds complete web products: responsive interfaces, backend services, APIs, database workflows, and production-ready deployments. I care about the details that connect every layer into one reliable experience.
 
-My projects span **React interfaces, Node.js services, SQL/NoSQL data, authentication, real-time communication, AI-assisted workflows, computer vision, and IoT systems**. I enjoy learning how data becomes decisions—and how intelligent features can improve useful software.
+My projects span **React interfaces, Node.js services, SQL/NoSQL data, authentication, real-time communication, AI-assisted workflows, computer vision, and intelligent products**. I enjoy learning how data becomes decisions—and how intelligent features can improve useful software.
 
 > **Current lens:** design the experience, build every layer, connect the data, and make intelligence useful.
 
@@ -112,19 +111,19 @@ Technologies represented in my public project code—not a proficiency ranking.
 | **Languages** | JavaScript · Python · Dart · C++ (Arduino/ESP32) · MATLAB |
 | **Frontend & mobile** | React · Tailwind CSS · Flutter · Progressive Web Apps |
 | **Backend & data** | Node.js · Express · Supabase · PostgreSQL · SQLite · MongoDB |
-| **IoT & communication** | ESP32 · MQTT · Socket.IO |
+| **Real-time & communication** | Socket.IO · Web APIs · Event-driven workflows |
 | **AI & computer vision** | OpenCV · Ultralytics YOLO · XGBoost · pandas |
 | **Tools** | Git · Vite · Docker Compose · Jupyter Notebook |
 
 ## `04` / WHAT I'M EXPLORING
 
 <details open>
-<summary><strong>AI, full-stack & connected systems</strong> — click to explore</summary>
+<summary><strong>AI, full-stack & product engineering</strong> — click to explore</summary>
 
 - **AI & machine learning** — learning practical ways to turn data into predictions, recommendations, and useful product features.
 - **Computer vision** — exploring image processing, object detection, and intelligent monitoring workflows.
 - **Full-stack systems** — connecting polished interfaces to APIs, databases, authentication, and reliable deployments.
-- **IoT & edge computing** — making sensor data observable, actionable, and useful through software.
+- **Product engineering** — turning ideas into accessible, responsive, and maintainable software.
 
 </details>
 
@@ -137,7 +136,7 @@ Technologies represented in my public project code—not a proficiency ranking.
 
 ## `06` / CONNECT
 
-Interested in **full-stack development, AI, IoT, or edge-computing collaboration**? Find me on [GitHub @yudhaindrap](https://github.com/yudhaindrap).
+Interested in **full-stack development, AI, or software product collaboration**? Find me on [GitHub @yudhaindrap](https://github.com/yudhaindrap).
 
 <div align="center">
 
@@ -145,6 +144,6 @@ Interested in **full-stack development, AI, IoT, or edge-computing collaboration
 
 **Build close to the data. Design for the real world.**
 
-`frontend` · `backend` · `database` · `AI/ML` · `deployment` · `IoT`
+`frontend` · `backend` · `database` · `AI/ML` · `deployment` · `product engineering`
 
 </div>

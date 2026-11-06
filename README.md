@@ -1,28 +1,53 @@
 <div align="center">
 
-# YUDHA INDRA PRAJA
+![Futuristic header](https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123B5D,100:22D3EE&height=190&section=header&text=YUDHA%20INDRA%20PRAJA&fontSize=38&fontColor=E6FBFF&fontAlignY=38&animation=fadeIn)
 
-### Full-Stack Developer · AI/ML explorer · Software engineer
+### `FULL-STACK DEVELOPER` · `AI/ML EXPLORER`
+
+[![Typing animation](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=780&lines=Designing+interfaces+%E2%86%92+building+APIs;Connecting+data+%E2%86%92+shipping+products;Exploring+AI+%26+Machine+Learning;Turning+ideas+into+useful+software)](https://git.io/typing-svg)
 
 **I build intelligent software from frontend to backend—turning ideas, data, and models into useful products.**
 
-[![Typing animation](https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;AI+%26+Machine+Learning;Frontend+%E2%86%92+Backend+%E2%86%92+Database;Building+intelligent+products;Turning+ideas+into+software)](https://git.io/typing-svg)
+[![GitHub](https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=E6FBFF)](https://github.com/yudhaindrap)
+[![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-0B1220?style=for-the-badge&logo=google-brain&logoColor=22D3EE)](#toolbox)
+[![Projects](https://img.shields.io/badge/PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE)](#selected-work)
 
-> **Bio:** Full-Stack Developer exploring AI and Machine Learning—building intelligent products from frontend to backend.
-
-[![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yudhaindrap)
+`[ ABOUT ](#profile)` · `[ WORK ](#selected-work)` · `[ STACK ](#toolbox)` · `[ CONTACT ](#connect)`
 
 </div>
 
 ---
 
-## `01` / PROFILE
+<a id="profile"></a>
 
-I am a **Full-Stack Developer and AI explorer** who builds complete web products: responsive interfaces, backend services, APIs, database workflows, and production-ready deployments. I care about the details that connect every layer into one reliable experience.
+## `01` / ABOUT ME
 
-My projects span **React interfaces, Node.js services, SQL/NoSQL data, authentication, real-time communication, AI-assisted workflows, computer vision, and intelligent products**. I enjoy learning how data becomes decisions—and how intelligent features can improve useful software.
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I am a **Full-Stack Developer and AI explorer** who builds complete web products: responsive interfaces, backend services, APIs, database workflows, and production-ready deployments.
+
+My work spans **React, Node.js, SQL/NoSQL data, authentication, real-time communication, AI-assisted workflows, computer vision, and intelligent products**. I enjoy learning how data becomes decisions—and how intelligent features can improve useful software.
 
 > **Current lens:** design the experience, build every layer, connect the data, and make intelligence useful.
+
+</td>
+<td width="38%" valign="top">
+
+```text
+┌─ SYSTEM PROFILE
+├─ role: full-stack developer
+├─ focus: AI / ML + product engineering
+├─ mode: build → learn → iterate
+└─ status: open to collaboration
+```
+
+</td>
+</tr>
+</table>
+
+<a id="selected-work"></a>
 
 ## `02` / SELECTED WORK
 
@@ -92,6 +117,8 @@ Web development and delivery of the Desa Gosono public information platform.
 
 </details>
 
+<a id="toolbox"></a>
+
 ## `03` / TOOLBOX
 
 Technologies represented in my public project code—not a proficiency ranking.
@@ -133,6 +160,8 @@ Technologies represented in my public project code—not a proficiency ranking.
 [![Jateng-DIY last commit](https://img.shields.io/github/last-commit/yudhaindrap/Website-Layanan-Jateng-DIY?style=flat-square&label=Jateng-DIY&color=22D3EE)](https://github.com/yudhaindrap/Website-Layanan-Jateng-DIY)
 
 [View contribution graph](https://github.com/yudhaindrap?tab=overview) · [Browse all repositories](https://github.com/yudhaindrap?tab=repositories)
+
+<a id="connect"></a>
 
 ## `06` / CONNECT
 

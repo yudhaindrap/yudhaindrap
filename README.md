@@ -12,13 +12,18 @@
 [![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-0B1220?style=for-the-badge&logo=google-brain&logoColor=22D3EE)](#toolbox)
 [![Projects](https://img.shields.io/badge/PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE)](#selected-work)
 
-`[ ABOUT ](#profile)` · `[ WORK ](#selected-work)` · `[ STACK ](#toolbox)` · `[ CONTACT ](#connect)`
+<p align="center">
+  <a href="#profile"><b>[ ABOUT ]</b></a> &nbsp;·&nbsp;
+  <a href="#selected-work"><b>[ WORK ]</b></a> &nbsp;·&nbsp;
+  <a href="#toolbox"><b>[ STACK ]</b></a> &nbsp;·&nbsp;
+  <a href="#connect"><b>[ CONTACT ]</b></a>
+</p>
 
 </div>
 
 ---
 
-<a id="profile"></a>
+<a id="profile" name="profile"></a>
 
 ## `01` / ABOUT ME
 
@@ -47,7 +52,7 @@ My work spans **React, Node.js, SQL/NoSQL data, authentication, real-time commun
 </tr>
 </table>
 
-<a id="selected-work"></a>
+<a id="selected-work" name="selected-work"></a>
 
 ## `02` / SELECTED WORK
 
@@ -117,7 +122,7 @@ Web development and delivery of the Desa Gosono public information platform.
 
 </details>
 
-<a id="toolbox"></a>
+<a id="toolbox" name="toolbox"></a>
 
 ## `03` / TOOLBOX
 
@@ -161,7 +166,7 @@ Technologies represented in my public project code—not a proficiency ranking.
 
 [View contribution graph](https://github.com/yudhaindrap?tab=overview) · [Browse all repositories](https://github.com/yudhaindrap?tab=repositories)
 
-<a id="connect"></a>
+<a id="connect" name="connect"></a>
 
 ## `06` / CONNECT
 

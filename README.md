@@ -20,39 +20,14 @@ I am a Full-Stack Developer and Applied AI explorer focused on building useful, 
 
 ### ⚡ Focus — technologies I build with
 
-<div align="center">
-
-<a href="#work"><img src="https://skillicons.dev/icons?i=react,nodejs,ts,express&theme=dark&perline=4" alt="Full-stack development logos" /></a>
-<br>
-<strong>FULL-STACK DEVELOPMENT</strong>
-<br>
-<sub>React · Node.js · TypeScript · Express · REST APIs</sub>
-
-<br><br>
-
-<a href="#work"><img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,sqlite&theme=dark&perline=4" alt="Data and cloud logos" /></a>
-<br>
-<strong>DATA &amp; CLOUD</strong>
-<br>
-<sub>Supabase · PostgreSQL · MongoDB · SQLite</sub>
-
-<br><br>
-
-<a href="#work"><img src="https://skillicons.dev/icons?i=opencv,python&theme=dark&perline=4" alt="AI and computer vision logos" /></a>
-<br>
-<strong>AI &amp; COMPUTER VISION</strong>
-<br>
-<sub>OpenCV · Ultralytics YOLO · XGBoost · pandas</sub>
-
-<br><br>
-
-<a href="#work"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,mqtt&theme=dark&perline=4" alt="Edge and real-time systems logos" /></a>
-<br>
-<strong>EDGE &amp; REAL-TIME SYSTEMS</strong>
-<br>
-<sub>ESP32 · Arduino · MQTT · WebSockets</sub>
-
-</div>
+<table align="center">
+<tr>
+<td align="center"><a href="#work"><img src="https://skillicons.dev/icons?i=react,nodejs,ts,express&theme=dark&perline=4" alt="Full-stack development logos" /></a><br><strong>FULL-STACK</strong><br><sub>React · Node · TypeScript</sub></td>
+<td align="center"><a href="#work"><img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,sqlite&theme=dark&perline=4" alt="Data and cloud logos" /></a><br><strong>DATA &amp; CLOUD</strong><br><sub>Supabase · PostgreSQL · MongoDB</sub></td>
+<td align="center"><a href="#work"><img src="https://skillicons.dev/icons?i=opencv,python&theme=dark&perline=4" alt="AI and computer vision logos" /></a><br><strong>AI &amp; VISION</strong><br><sub>OpenCV · YOLO · XGBoost</sub></td>
+<td align="center"><a href="#work"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,mqtt&theme=dark&perline=4" alt="Edge and real-time systems logos" /></a><br><strong>EDGE &amp; REAL-TIME</strong><br><sub>ESP32 · Arduino · MQTT</sub></td>
+</tr>
+</table>
 
 ---
 
@@ -106,7 +81,7 @@ The contribution graph below is updated automatically every 12 hours through Git
 </tr>
 <tr>
 <td><strong><a href="https://github.com/yudhaindrap/doi-sync-bsfl.git">Dependency-Ordered Idempotent Synchronization for Offline-First Edge-Cloud IoT</a></strong><br><sub>Research · Local emulation study</sub></td>
-<td>Compares plain <code>INSERT</code> with duplicate-key handling, unordered <code>UPSERT</code>, and dependency-aware <code>UPSERT</code> with parent-before-child ordering for Black Soldier Fly monitoring data. Using 24-hour ESP32 recordings replayed at 150× real-time speed across controlled outages, dependency-aware synchronization substantially reduced median foreign-key rejection events under 60- and 120-second outages, though it did not consistently improve accounting-derived recovery or queue-drain completion.</td>
+<td>Compares three synchronization strategies for Black Soldier Fly data using replayed ESP32 recordings under controlled outages. Dependency-aware <code>UPSERT</code> reduced foreign-key rejections, but did not consistently improve recovery or queue draining.</td>
 <td><code>Offline-first</code> <code>Edge-cloud IoT</code> <code>ESP32</code> <code>BSFL</code> <code>Synchronization</code></td>
 </tr>
 </tbody>
